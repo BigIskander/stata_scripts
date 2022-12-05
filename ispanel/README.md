@@ -24,5 +24,5 @@ $${{X}_{i.}}=\sum \frac{{{X}_{it}}}{{{n}_{i}}}$$</li>
 </ul>
 <p><b>Пример выполнения программы на тестовых данных:</b></p>
 <p><img src="example.PNG"></p>
-<hr id="ENG">
-<h1>Script for testing </h1>
+<hr>
+<h1 id="ENG">Script for testing </h1>
