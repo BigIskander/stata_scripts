@@ -1,5 +1,5 @@
 # Программа для тестирования сливаемости данных в панель <br> (т.е. в панельный тип данных)
-<p><a href="#ENG">On Enlish</a></p>
+<p><a href="#ENG">In English</a></p>
 <p><b>Что делать эта программа:</b></p>
 <p> Скрипт (программа) оценивает 3 модели (методом МНК):</p>
 <ul>
@@ -15,4 +15,4 @@ $${{X}_{i.}}=\sum \frac{{{X}_{it}}}{{{n}_{i}}}$$</li>
 <li>2) <b>H0:</b> Unrestricted panel Least Squares; <b>H1:</b> BE - Between panel model; </li>
 <li>3) <b>H0:</b> LSDV - Least Squares with Dummy Variables; <b>H1:</b> BE - Between panel model; </li>
 </ul>
-<p alt="ENG"><b>Как использовать программу:</b></p>
+<p id="ENG"><b>Как использовать программу:</b></p>
