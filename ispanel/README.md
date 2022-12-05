@@ -10,7 +10,7 @@
 $${{X}_{i.}}=\sum \frac{{{X}_{it}}}{{{n}_{i}}}$$</li>
 </ul>
 <p>Оцениваемые модели: 1) Unrestricted panel Least Squares; 2) LSDV - Least Squares with Dummy Variables; 3) BE - Between panel model.</p>
-<p>Затем по оцененным моделям считаются тестовые статистики для следующих гипотез:</p>
+<p>Затем, по оцененным моделям считаются тестовые статистики для следующих гипотез:</p>
 <ul>
 <li>1) <b>H0:</b> Unrestricted panel Least Squares; <b>H1:</b> LSDV - Least Squares with Dummy Variables; </li>
 <li>2) <b>H0:</b> Unrestricted panel Least Squares; <b>H1:</b> BE - Between panel model; </li>
