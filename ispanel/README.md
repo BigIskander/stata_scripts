@@ -37,7 +37,7 @@ $${{X}_{i.}}=\sum \frac{{{X}_{it}}}{{{n}_{i}}}$$</li>
 $${{X}_{i.}}=\sum \frac{{{X}_{it}}}{{{n}_{i}}}$$</li>
 </ul>
 <p>Estimating models: 1) Unrestricted panel Least Squares; 2) LSDV - Least Squares with Dummy Variables; 3) BE - Between panel model.</p>
-<p>Next, based on data from estimation program calculates statistics for hypothesis:</p>
+<p>Next, based on data from estimation, program calculates statistics for hypothesis:</p>
 <ul>
 <li>1) <b>H0:</b> Unrestricted panel Least Squares; <b>H1:</b> LSDV - Least Squares with Dummy Variables; </li>
 <li>2) <b>H0:</b> Unrestricted panel Least Squares; <b>H1:</b> BE - Between panel model; </li>
@@ -46,8 +46,8 @@ $${{X}_{i.}}=\sum \frac{{{X}_{it}}}{{{n}_{i}}}$$</li>
 <p><b>How to use this programm:</b></p>
 <ul>
 <li>1) place file with program (<b>ispanel.ado</b>) in the folder for personal Stata plugins (usually this folder: <b>C:\ado\personal\</b>)</li>
-<li>2) call programm execution in Stata by command in format: <b><i>ispanel panel_data_identificatar dependent_variable list_of_independent_variables</i></b></li>
-<li>3) after program finishing the execution, it will show calculated statistics.</li>
+<li>2) call programm execution in Stata by command in format: <b><i>ispanel panel_data_identificator dependent_variable list_of_independent_variables</i></b></li>
+<li>3) after program finishes the execution, it will show calculated statistics.</li>
 </ul>
 <p><b>Example of program execution on test data:</b></p>
 <p><img src="example.PNG"></p>
