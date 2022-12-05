@@ -1,1 +1,1 @@
-#Detects is it panel data or not
+# Detects is it panel data or not
