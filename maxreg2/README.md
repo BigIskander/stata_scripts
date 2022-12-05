@@ -1,0 +1,1 @@
+# finds maximum Rsq regression
