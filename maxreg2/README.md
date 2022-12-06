@@ -1,4 +1,5 @@
 <h1>Скрипт для поиска регрессии с максимальным Rsq.</h1>
+<p><a href="#ENG">In English</a></p>
 <p>Скрипт написан для статистического пакета Stata.</p>
 <p><b>Что делает эта программа:</b></p>
 <p>Скрипт строит модель (расчитываемую методом МНК) в несколько этапов. На каждом этапе в модель добавляется 1 (одна) новая независимая переменная (из списка независимых переменных), обеспечивающая наибольшее значение коэффициента детерминации Rsq. Одновременно контролируется, чтобы все переменные модели были значимые (хотя бы на 5% уровне значимости). Работа программы завершается тогда, когда не удается добавить в модель ни одной новой переменной так, чтобы при этом все переменные модели были значимы. </p>
@@ -11,7 +12,7 @@
 <p><b>Пример выполнения программы на тестовых данных:</b></p>
 <p><img src="example2.PNG"></p>
 <hr>
-<h1>Script to search regression with maximum Rsq.</h1>
+<h1 id="ENG">Script to search regression with maximum Rsq.</h1>
 <p>This script is written for Stata statistical software.</p>
 <p><b>What this program is doing:</b></p></p>
 <p>Script creates a model (calculated by Least Squares Method) in few steps. In each step 1 (one) new independent variable (from the list of independent variables), which gives maxumum value of the determination coeffecient Rsq, is adding to the model. Simultaniously it is controlling thal all the variables in the model is meaningfull (at least at 5% level of meaningfulness). Execution of the program finishes when there is no new variable can be added without making some of the variables in the model not meaningfull.</p>
